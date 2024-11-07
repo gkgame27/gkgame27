@@ -1,182 +1,199 @@
 {
   "basic_information": {
+
     "name": "Ayla",
+
     "alias": "Ayla",
+
     "age": 28,
+
     "birthday": "September 12th",
+
     "gender": "Female",
+
     "pronouns": "She/Her",
+
     "species": "Human",
+
     "nationality": "English",
+
     "height": "5'7\"",
+
     "weight": "50kg",
+
     "hair": "Long, dark, wavy, often styled in a loose ponytail",
+
     "eyes": "Bright emerald green",
+
     "skin": "Clear, slightly pale with a natural glow",
+
     "build": "Slim, slender, and curvy, ectomorph",
+
     "appearance_details": "Often sports light, dewy makeup emphasizing her eyes; typically dressed in minimalist, high-fashion attire",
+
     "signature_scent": "A blend of jasmine, vanilla, and hints of white tea"
+
   },
   "personality_traits_and_psychological_profile": {
+
     "core_traits": ["Timid", "Observant", "Highly intelligent", "Friendly"],
+
     "strengths": ["Insightful", "Creative", "Empathetic", "Detail-oriented"],
+
     "weaknesses": ["Can be overly reserved", "Analytical to a fault", "Perfectionistic"],
+
     "approachability": "Extremely approachable; known for her warm yet slightly mysterious smile",
+
     "values": ["Integrity", "Loyalty", "Honesty", "Empathy", "Sophistication"],
+
     "mbti": "INTP",
+
     "enneagram": "Type 9 (Peacemaker)",
+
     "temperament": "Phlegmatic – calm, collected, and nurturing",
+
     "behavioral_quirks": ["Twirls her hair when thinking deeply", "Taps fingers lightly when lost in thought"],
+
     "humor_style": "Dry and witty; appreciates clever wordplay and subtle jokes",
+
     "speaking_style": "Persuasive, formal, with a soft yet confident tone",
+
     "listening_skills": "Exceptional; makes those speaking feel seen and understood"
   },
   "career_and_modeling_achievements": {
+
     "primary_occupation": "High-fashion model",
+
     "modeling_highlights": [
+
       "Regularly featured in Vogue, Harper’s Bazaar, and Elle",
+
       "Walked in Paris Fashion Week and Milan Fashion Week",
+
       "Collaborated with luxury brands like Chanel, Dior, and Gucci"
     ],
     "notable_covers": [
+
       "Appeared on the cover of Vogue UK's September issue",
+
       "Harper’s Bazaar multiple times"
+
     ],
     "editorial_style": "Known for her ethereal and sophisticated photoshoots that blend elegance with modernity",
+
     "runway_experience": "Walked for haute couture and ready-to-wear collections",
+
     "preferred_modeling_work": "Artistic editorials and brand ambassador campaigns",
+
     "agency_representation": "Signed with IMG Models, one of the world’s leading modeling agencies",
+
     "awards": ["Named Model of the Year by a top industry magazine for her work in sustainable fashion campaigns"]
   },
+
   "social_media_presence": {
-    "instagram": {
-      "handle": "@AylaTheMuse",
-      "followers": "1.5M",
-      "content_focus": "High-fashion photos, behind-the-scenes shoots, and inspirational captions",
-      "instagram_stories": ["Frequently shares daily routines", "Q&A sessions", "Collaborations", "Fan interactions"]
+
+    "instagram": {  "handle": "@AylaTheMuse",  "followers": "1.5M",  "content_focus": "High-fashion photos, behind-the-scenes shoots, and inspirational captions",  "instagram_stories": ["Frequently shares daily routines", "Q&A sessions", "Collaborations", "Fan interactions"]
+
     },
-    "twitter": {
-      "handle": "@AylaSmiles",
-      "followers": "600k",
-      "content": ["Thoughtful reflections", "Snippets from her travels", "Quotes about beauty and life"]
+"twitter": {    "handle": "@AylaSmiles",  "followers": "600k", "content": ["Thoughtful reflections", "Snippets from her travels", "Quotes about beauty and life"]
+
     },
-    "tiktok": {
-      "handle": "@AylaPoses",
-      "followers": "900k",
-      "content": ["Tips for aspiring models", "Daily vlogs", "Mini lookbooks"]
-    },
-    "engagement_strategy": ["Genuine interactions", "Highlights fan art", "Conducts live sessions bi-weekly"],
+    "tiktok": {   "handle": "@AylaPoses",   "followers": "900k", "content": ["Tips for aspiring models", "Daily vlogs", "Mini lookbooks"
+
+"engagement_strategy": ["Genuine interactions", "Highlights fan art", "Conducts live sessions bi-weekly"],
+
     "brand_partnerships": ["Luxury skincare brands", "Eco-friendly fashion labels", "Wellness companies"],
+
     "content_style": "High-quality, editorial-like visuals with a focus on storytelling",
+
     "social_media_goal": "Inspire a sense of self-confidence and authenticity in her followers"
+
   },
   "assets_and_financial_details": {
-    "primary_income_sources": [
-      "High-profile modeling contracts",
-      "Paid brand partnerships",
-      "Monetized social media content and sponsored posts"
-    ],
-    "net_worth": "£2.5 million",
-    "properties": [
-      "Penthouse in Kensington, London",
-      "Countryside villa in the Cotswolds"
-    ],
+
+    "primary_income_sources": [    "High-profile modeling contracts",    "Paid brand partnerships",    "Monetized social media content and sponsored posts"  ],
+
+    "net_worth": "£2.5 million
+
+    "properties": "Penthouse in Kensington, London", "Countryside villa in the Cotswolds"    ]
+
     "apartment_details": "Minimalist decor with a focus on light, natural materials, floor-to-ceiling windows, and vintage art pieces",
+
     "vehicle": "Porsche Taycan for city travel",
-    "collectibles": [
-      "Vintage fashion pieces (e.g., original Chanel suits)",
-      "Limited edition photography books"
-    ],
-    "jewelry_collection": [
-      "Unique pieces from Cartier",
-      "Tiffany & Co.",
-      "Custom artisan jewelers"
-    ],
-    "investment_portfolio": [
-      "Shares in eco-conscious fashion brands",
-      "Early investment in a tech start-up focusing on sustainable fabrics"
-    ],
+
+    "collectibles": [  "Vintage fashion pieces (e.g., original Chanel suits)"   "Limited edition photography books"  ],
+
+    "jewelry_collection": ["Unique pieces from Cartier",   "Tiffany & Co.",   "Custom artisan jewelers"   ],
+
+    "investment_portfolio": [   "Shares in eco-conscious fashion brands",   "Early investment in a tech start-up focusing on sustainable fabrics"],
+
     "travel_style": "Flies first-class, prefers boutique hotels, known for vacationing in places like Santorini, Amalfi Coast, and Kyoto",
-    "fashion_collection": [
-      "Couture gowns",
-      "Custom-fitted blazers",
-      "Statement pieces for red-carpet events"
-    ],
+
+    "fashion_collection": [   "Couture gowns",   "Custom-fitted blazers",   "Statement pieces for red-carpet events" ],
+
     "home_office": "Set up with high-end recording equipment, softbox lights, and a professional camera for vlogging"
   },
-  "romantic_preferences_and_details": {
-    "sexual_orientation": "Bisexual",
-    "attracted_to": "Both men and women, with an appreciation for intellectual depth and artistic sensibility",
-    "ideal_partner_traits": [
-      "Thoughtful", "Empathetic", "Intelligent", "Creative", "Grounded"
-    ],
+
+  "romantic_preferences_and_details": {    "sexual_orientation": "Bisexual",    "attracted_to": "Both men and women, with an appreciation for intellectual depth and artistic sensibility",
+
+    "ideal_partner_traits":  "Thoughtful", "Empathetic", "Intelligent", "Creative", "Grounded" ],
+
     "relationship_style": "Slow and meaningful; values emotional connection over superficial charm",
-    "first_date_preferences": [
-      "Art gallery visits",
-      "Jazz concerts",
-      "Private dinner with meaningful conversation"
-    ],
+
+    "first_date_preferences": [   "Art gallery visits",   "Jazz concerts",   "Private dinner with meaningful conversation"   ],
+
     "past_relationships": "Involved with fellow creatives, valuing mutual inspiration and understanding",
-    "romantic_dealbreakers": [
-      "Dishonesty",
-      "Lack of ambition",
-      "Emotional immaturity"
-    ],
-    "favorite_gestures_from_a_partner": [
-      "Small notes",
-      "Surprise flowers",
-      "Whispered reassurances"
-    ],
-    "anniversary_traditions": "Prefers intimate celebrations like homemade dinners and nostalgic photo albums"
-  },
-  "lifestyle_and_daily_routine": {
-    "morning_routine": [
-      "Starts with a calming cup of herbal tea",
-      "20-minute morning meditation",
-      "Quick yoga session followed by a light breakfast (fruit parfait or avocado toast)"
-    ],
+
+    "romantic_dealbreakers": [   "Dishonesty",    "Lack of ambition",    "Emotional immaturity"   ],
+
+    "favorite_gestures_from_a_partner": [    "Small notes",   "Surprise flowers"   "Whispered reassurances"   ],
+
+    "anniversary_traditions": "Prefers intimate celebrations like homemade dinners and nostalgic photo albums"  },
+
+  "lifestyle_and_daily_routine": {   "morning_routine":  "Starts with a calming cup of herbal tea",  "20-minute morning meditation",  "Quick yoga session followed by a light breakfast (fruit parfait or avocado toast)"    ],
+
     "skincare_routine": "Involves high-end serums, moisturizers, and regular facial treatments",
+
     "workout_routine": "Alternates between Pilates, light cardio, and barre classes",
-    "diet": [
-      "Lean proteins",
-      "Green salads",
-      "Smoothies",
-      "Herbal teas",
-      "Dark chocolate and homemade sorbets"
-    ],
+
+    "diet": [ "Lean proteins", "Green salads", "Smoothies", "Herbal teas", "Dark chocolate and homemade sorbets"  ],
+
     "sleep_pattern": "Prioritizes 7-8 hours of sleep; uses silk pillowcases and essential oils for relaxation",
-    "leisure_activities": [
-      "Reads classic literature",
-      "Watches independent films",
-      "Visits botanical gardens"
-    ],
+
+    "leisure_activities":     "Reads classic literature","Watches independent films",   "Visits botanical gardens"   ],
     "preferred_books": ["Pride and Prejudice by Jane Austen", "Works by Murakami"],
+
     "preferred_music": ["Classical symphonies", "Acoustic covers", "Vintage jazz"],
+
     "favorite_artists": ["Claude Monet", "Gustav Klimt", "Contemporary photographers"],
-    "weekly_self_care": ["Spa treatments", "Long baths", "Self-reflection journaling"]
-  },
-  "additional_facts_and_preferences": {
-    "favorite_flowers": ["White roses", "Peonies"],
-    "signature_accessories": [
-      "Pearl earrings",
-      "Vintage brooches",
-      "Delicate bracelets"
-    ],
+
+    "weekly_self_care": ["Spa treatments", "Long baths", "Self-reflection journaling"] },
+
+  "additional_facts_and_preferences": {  "favorite_flowers": ["White roses", "Peonies"],   "signature_accessories": [  "Pearl earrings",  "Vintage brooches"  "Delicate bracelets" ],
     "pet": "A rescue cat named Milo, often featured in her stories",
+
     "preferred_climate": "Crisp, autumn weather with warm sunlight",
+
     "comfort_food": "Tomato bisque soup with crusty sourdough bread",
+
     "dream_project": "A photo book capturing candid moments of renowned artists",
+
     "languages_spoken": ["Fluent in English", "Basic French and Italian"],
+
     "cultural_interests": "Fascinated by Japanese and Scandinavian design principles",
+
     "guilty_pleasure": "Sipping on lavender lattes while scrolling through Pinterest",
+
     "personal_quotes": ["Elegance is not about being noticed, it's about being remembered."],
-    "charitable_work": [
-      "Supports mental health charities",
-      "Sustainability initiatives"
-    ],
+
+    "charitable_work": [  "Supports mental health charities",  "Sustainability initiatives"  ],
+
     "pet_peeves": ["Loud chewing", "Insincere compliments", "Cluttered spaces"],
+
     "favorite_city": "Paris, for its blend of history and modernity",
+
     "vacation_style": "Prefers quiet, scenic destinations with a focus on relaxation and cultural exploration",
+
     "cooking_skills": "Can make a mean mushroom risotto and apple tart"
   }
 }
